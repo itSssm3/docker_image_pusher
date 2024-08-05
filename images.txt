@@ -3,10 +3,10 @@
 #honmashironeko/arl-docker-initial
 #honmashironeko/arl-docker-all
 #secfa/awvs
-#zemal/watchvuln
+zemal/watchvuln
 #taskbjorn/hexo
 #xyzzpwn/hexo
-ubuntu:22.04
+#ubuntu:22.04
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
