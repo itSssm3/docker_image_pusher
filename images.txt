@@ -8,7 +8,8 @@
 #xyzzpwn/hexo
 #ubuntu:22.04
 gztime/gzctf:latest
-postgres:alpine
+#postgres:alpine
+sagemath/sagemath
 
 
 #支持私库
