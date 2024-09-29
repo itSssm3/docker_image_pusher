@@ -7,7 +7,7 @@
 #taskbjorn/hexo
 #xyzzpwn/hexo
 #ubuntu:22.04
-gztime/gzctf:latest
+#gztime/gzctf:latest
 #postgres:alpine
 sagemath/sagemath
 
