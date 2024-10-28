@@ -10,6 +10,7 @@
 #gztime/gzctf:latest
 #postgres:alpine
 sagemath/sagemath
+python:3.6.7
 
 
 #支持私库
