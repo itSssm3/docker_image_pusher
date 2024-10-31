@@ -11,7 +11,8 @@
 #postgres:alpine
 #sagemath/sagemath
 #python:3.6.7
-nginx:1.21.0
+#nginx:1.21.0
+mlikiowa/napcat-docker:latest
 
 
 #支持私库
