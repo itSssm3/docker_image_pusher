@@ -3,16 +3,16 @@
 #honmashironeko/arl-docker-initial
 #honmashironeko/arl-docker-all
 #secfa/awvs
-#zemal/watchvuln
+zemal/watchvuln
 #taskbjorn/hexo
 #xyzzpwn/hexo
 #ubuntu:22.04
-#gztime/gzctf:latest
+gztime/gzctf:latest
 #postgres:alpine
 #sagemath/sagemath
 #python:3.6.7
 #nginx:1.21.0
-mlikiowa/napcat-docker:latest
+#mlikiowa/napcat-docker:latest
 
 
 #支持私库
